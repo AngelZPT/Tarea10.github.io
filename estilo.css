@@ -1,0 +1,31 @@
+#divBotones{
+    text-align:center;
+   
+    
+    }
+    
+    html{
+    background: #314448;
+    
+
+
+      }
+     p{
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+     
+
+     }
+ 
+     a{
+      color: blue;
+     }
+    
+    body{
+    margin: 50px;
+    border:solid 1px black;
+  
+ 
+    padding: 15px;
+    background:#536d6c;
+
+     }
